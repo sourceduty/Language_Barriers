@@ -64,5 +64,10 @@ Total Speakers: 232 million
 
 Language barriers remain a significant global issue, affecting areas such as international business, education, and cultural exchanges. The economic and social impacts of these barriers underscore the importance of linguistic diversity and multilingual communication strategies in fostering global connectivity.
 
+#
+### Related Links
+
+[International Compatibility](https://github.com/sourceduty/International_Compatibility)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
