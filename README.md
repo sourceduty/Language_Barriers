@@ -87,7 +87,7 @@ Language barriers remain a significant global issue, affecting areas such as int
 
 #
 
-Alex: *"I want to learn more languages and I try to, but for now, I have to prioritize English."*
+> Alex: *"I want to learn more languages and I try to, but for now, I have to prioritize English."*
 
 #
 ### Related Links
